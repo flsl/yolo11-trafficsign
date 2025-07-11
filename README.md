@@ -77,7 +77,7 @@ w59 框数 = 231
 
 图片预览：
 
- <img src="./assets/323_3.png" alt="" style="max-height:726px; box-sizing:content-box;" />
+ <img src="323_3.png" alt="" style="max-height:726px; box-sizing:content-box;" />
 
 【训练信息】
 
